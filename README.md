@@ -115,6 +115,15 @@ When the workbook opens, a small floating panel appears at the top right of the 
 3. Click **Enable Content** when prompted so the macros can run.
 4. Open **Sheet2** and start scheduling.
 
+Screenshots
+
+Add a screenshot of the Gantt calendar here:
+<img width="1285" height="610" alt="image" src="https://github.com/user-attachments/assets/01fa578f-e01c-412f-b624-95f92d5c3c94" />
+<img width="1606" height="798" alt="image" src="https://github.com/user-attachments/assets/b5eb7cc2-bb99-41f3-bad7-04ddbc4608aa" />
+<img width="1543" height="833" alt="image" src="https://github.com/user-attachments/assets/b96f85aa-9efb-499d-a046-825ea53fa2d6" />
+<img width="481" height="811" alt="image" src="https://github.com/user-attachments/assets/8b9abfc2-b6a1-491b-9c6d-7cdce272582d" />
+<img width="576" height="802" alt="image" src="https://github.com/user-attachments/assets/4a976a16-321f-40e9-a1e1-871088783e32" />
+
 ## Requirements
 
 - Microsoft Excel 2016 or later (desktop)
